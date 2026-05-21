@@ -26,4 +26,6 @@ Nuevo cambio colaborativo Julian David Lopez
 - Todo conflicto resuelto debe registrarse mediante un commit descriptivo.
 
 - En caso de conflictos complejos, los integrantes deberán acordar conjuntamente la versión final del archivo.
-Cambios de Miguel Niño
+nuevo cambio colaborativo luis EdUARDO Bulla
+Nuevo cambio colaborativo Luis Eduardo Bulla
+Nuevo cambio colaborativo Luis Eduardo Bulla
