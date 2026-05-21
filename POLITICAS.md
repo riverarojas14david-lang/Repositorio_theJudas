@@ -27,3 +27,4 @@ Este repositorio contiene el desarrollo del proyecto académico "theJudas".
 - En caso de conflictos complejos, los integrantes deberán acordar conjuntamente la versión final del archivo.
 nuevo cambio colaborativo luis EdUARDO Bulla
 Nuevo cambio colaborativo Luis Eduardo Bulla
+Nuevo cambio colaborativo Luis Eduardo Bulla
