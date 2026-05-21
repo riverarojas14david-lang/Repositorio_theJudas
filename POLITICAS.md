@@ -11,3 +11,4 @@ Este repositorio contiene el desarrollo del proyecto académico "theJudas".
 ## Seguridad
 - No compartir claves privadas.
 - No subir información sensible.
+Nuevo cambio colaborativo Julian David Lopez
